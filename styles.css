@@ -8,6 +8,7 @@ center{
 
 body {
     background-color: #cebea6;
+    height: 100vh;
 }
 div {
     color: #495245;
@@ -64,7 +65,7 @@ header:hover, p:hover, a:hover, block:hover {
   80%      { color: #121312; }
   }
 block {
-    font-size: 6px;
+    font-size: 4px;
     font-family: courier-std, monospace;
     font-weight: 700;
     font-style: normal;
@@ -92,5 +93,4 @@ block {
         width: 300px;
         height: 500px;
     }
-}
-
+    }
